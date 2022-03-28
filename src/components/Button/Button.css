@@ -1,0 +1,22 @@
+.button{
+    background-color: orange;
+    color: white;
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+    height:30px;
+    margin-left: 10%;
+}
+.button:hover {
+    background-color: white;
+    color: black;
+  }
+  .inactive{
+    display: none;
+  }
+@media only screen and (max-width: 800px) {
+    .button {
+      width: 100px;
+      margin-left: 30%;
+    }
+  }

@@ -1,0 +1,8 @@
+.selectednumber{
+    color: yellow;
+    background-color: rgb(39, 39, 54);
+}
+.submitted{
+    color: white;
+    padding: 20px;
+}

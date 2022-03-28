@@ -1,0 +1,14 @@
+.number{
+    background-color: rgb(55, 55, 78,0.2);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 50%;
+}
+.number:hover {
+    background-color: yellow;
+    color: black;
+  }
+  .selected{
+      background-color: beige;
+      color: black;
+  }
